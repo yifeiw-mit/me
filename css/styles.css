@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    text-align: justify;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -31,7 +32,7 @@ h3 {
 }
 p {
     font-size: 1.2em;
-    line-height: 1.5em;
+    line-height: 1.3em;
     color: #333;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
